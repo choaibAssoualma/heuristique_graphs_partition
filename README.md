@@ -1,1 +1,1 @@
-# 5il-oc-partitionnement-graphe
+# heuristic for  partitioning graphs
